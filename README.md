@@ -89,7 +89,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Bharaths0407/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bharaths0407.Bharaths0407&left_color=limegreen&right_color=darkgrey"  />
 </div>
 
 ###
@@ -106,7 +106,4 @@
 
 <img src="https://raw.githubusercontent.com/Bharaths0407/Bharaths0407/output/snake.svg" alt="Snake animation" />
 
-
 ###
-
-
