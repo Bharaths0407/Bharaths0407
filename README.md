@@ -105,6 +105,8 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Bharaths0407/Bharaths0407/output/snake.svg" alt="Snake animation" />
+![snake.yml](https://github.com/Bharaths0407/Bharaths0407/workflows/Generate%20snake%20animation/badge.svg)
+
 
 ###
 
