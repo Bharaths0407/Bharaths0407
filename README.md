@@ -12,7 +12,7 @@
 
 ###
 
-<h5 align="center">I am Front End Developer and UX/UI Designer with a focus on creating visually stunning, user-friendly interfaces. I specialize in HTML, CSS, and JavaScript, and have a strong understanding of user-centered design principles. Passionate about delivering designs that engage and delight users, I collaborate effectively with cross-functional teams to create innovative digital experiences.<br><br>Experienced in Data Structures and Algorithms with expertise in Java. Passionate about problem-solving and continually exploring new techniques to optimize code performance<br><br>Aspiring for a challenging career in Software Development to use my skills and experience for the best results.</h5>
+<h4 align="center">I am Front End Developer and UX/UI Designer with a focus on creating visually stunning, user-friendly interfaces. I specialize in HTML, CSS, and JavaScript, and have a strong understanding of user-centered design principles. Passionate about delivering designs that engage and delight users, I collaborate effectively with cross-functional teams to create innovative digital experiences.<br><br>Experienced in Data Structures and Algorithms with expertise in Java. Passionate about problem-solving and continually exploring new techniques to optimize code performance<br><br>Aspiring for a challenging career in Software Development to use my skills and experience for the best results.</h4>
 
 ###
 
