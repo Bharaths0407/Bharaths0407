@@ -2,23 +2,23 @@
   <img height="200" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif"  />
 </div>
 
-###
+
 
 <h1 align="center">Hey 👋, I'm Bharath.S and I'm a  UI/UX  Designer, Front-End Developer</h1>
 
-###
+
 
 <h3 align="left">Glad to see you here!</h3>
 
-###
+
 
 <h4 align="center">I am Front End Developer and UX/UI Designer with a focus on creating visually stunning, user-friendly interfaces. I specialize in HTML, CSS, and JavaScript, and have a strong understanding of user-centered design principles. Passionate about delivering designs that engage and delight users, I collaborate effectively with cross-functional teams to create innovative digital experiences.<br><br>Experienced in Data Structures and Algorithms with expertise in Java. Passionate about problem-solving and continually exploring new techniques to optimize code performance<br><br>Aspiring for a challenging career in Software Development to use my skills and experience for the best results.</h4>
 
-###
+
 
 <h3 align="left">Languages and Tools :-</h3>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
@@ -64,11 +64,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+
 
 <h3 align="left">Connect with me :-</h3>
 
-###
+
 
 <div align="left">
   <a href="mailto:bharaths0407@gmail.com" target="_blank">
@@ -82,17 +82,16 @@
   </a>
 </div>
 
-###
+
 
 <h3 align="left">Github Stats :-</h3>
 
-###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Bharaths0407.Bharaths0407&left_color=limegreen&right_color=darkgrey"  />
 </div>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bharaths0407&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
